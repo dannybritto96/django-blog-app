@@ -2,6 +2,10 @@
 
 Simple blog application. Only the superuser i.e., you can post.
 Be sure to migrate before running.
+
+<h2>Clone the project</h2>
+<pre> git clone https://github.com/dannybritto96/django-blog-app.git</pre>
+
 <pre>
 python manage.py migrate
 python manage.py makemigrations blog
