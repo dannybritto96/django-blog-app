@@ -21,7 +21,7 @@ python manage.py createsuperuser
 <h3>Run server</h3>
 <pre>
 python manage.py runserver
-<pre>
+</pre>
 Goto <a href="http://127.0.0.1:8000">http://127.0.0.1:8000 </a>to view the application.
 
 Thanks to <a href="https://github.com/yabwe">Yabwe</a> for MediumEditor tool.
