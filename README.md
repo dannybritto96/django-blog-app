@@ -1,4 +1,4 @@
-Blog Application powered by Django
+<h1>Blog Application powered by Django<h1>
 
 Simple blog application. Only the superuser i.e., you can post.
 Be sure to migrate before running.
